@@ -16,3 +16,8 @@ It is a simple GUI calculator with a clear layout and basic functionalities for 
 This Python code generates a secure, random password of a specified length, ensuring it includes at least one lowercase letter, uppercase letter, digit, and special character. It shuffles characters to enhance security and prevent predictable patterns.
 
 ![3_Password_Generator](https://github.com/user-attachments/assets/098509bb-e205-4d0b-b1c2-1560f7813d60)
+
+4. QR Code Generator
+A QR Code Generator is a Python program that creates QR codes from text or URLs, allowing for easy sharing and scanning. Using libraries like qrcode, it takes input (e.g., a URL or a piece of text), encodes it as a QR code, and outputs an image file that can be scanned by mobile devices. This tool is useful for generating QR codes for websites, contact information, or event details, enabling quick and efficient data transfer.
+
+![qr_code](https://github.com/user-attachments/assets/706a072e-45a6-4799-bc86-ca528b171ba7)
