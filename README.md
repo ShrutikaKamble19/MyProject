@@ -21,3 +21,9 @@ This Python code generates a secure, random password of a specified length, ensu
 A QR Code Generator is a Python program that creates QR codes from text or URLs, allowing for easy sharing and scanning. Using libraries like qrcode, it takes input (e.g., a URL or a piece of text), encodes it as a QR code, and outputs an image file that can be scanned by mobile devices. This tool is useful for generating QR codes for websites, contact information, or event details, enabling quick and efficient data transfer.
 
 ![qr_code](https://github.com/user-attachments/assets/706a072e-45a6-4799-bc86-ca528b171ba7)
+
+5. Email Validation
+This Email Validation program provides a simple, interactive way to check the validity of email addresses, using a regex-based approach to validate common email formats and offering user-friendly prompts and feedback.
+![Uploading 5_email.png…]()
+
+
