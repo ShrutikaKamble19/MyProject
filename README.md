@@ -32,7 +32,10 @@ Features:
 - Initializes a Google Translator object to handle translations.
 - Utilizes the `translate` method to process text and return translated output.
 - Demonstrates usage with an example of translating "Hello, how are you?" to Spanish, resulting in "Hola, ¿cómo estás?".
+  ![Google](https://github.com/user-attachments/assets/d399e019-eb14-46e5-b652-345c71030341)
+
 
 7.Google Translator GUI
 A GUI-based Google Translator using Tkinter and googletrans. Users can input text, select a target language, and view translated output interactively with error handling for seamless functionality.
-
+![Google_GUI](https://github.com/user-attachments/assets/926e956f-7fba-40f2-b626-84046e031f73)
+![Google_GUI_1](https://github.com/user-attachments/assets/a87ad4b3-c904-48c1-9647-da491c9dfba8)
