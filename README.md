@@ -24,6 +24,8 @@ A QR Code Generator is a Python program that creates QR codes from text or URLs,
 
 5. Email Validation
 This Email Validation program provides a simple, interactive way to check the validity of email addresses, using a regex-based approach to validate common email formats and offering user-friendly prompts and feedback.
-![Uploading 5_email.png…]()
+
+![5_email](https://github.com/user-attachments/assets/66662687-48fb-4b7f-9ce0-f0e5a039d56b)
+
 
 
