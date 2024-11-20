@@ -27,5 +27,12 @@ This Email Validation program provides a simple, interactive way to check the va
 
 ![5_email](https://github.com/user-attachments/assets/66662687-48fb-4b7f-9ce0-f0e5a039d56b)
 
+6.Google Translator
+Features:
+- Initializes a Google Translator object to handle translations.
+- Utilizes the `translate` method to process text and return translated output.
+- Demonstrates usage with an example of translating "Hello, how are you?" to Spanish, resulting in "Hola, ¿cómo estás?".
 
+7.Google Translator GUI
+A GUI-based Google Translator using Tkinter and googletrans. Users can input text, select a target language, and view translated output interactively with error handling for seamless functionality.
 
