@@ -39,3 +39,9 @@ Features:
 A GUI-based Google Translator using Tkinter and googletrans. Users can input text, select a target language, and view translated output interactively with error handling for seamless functionality.
 ![Google_GUI](https://github.com/user-attachments/assets/926e956f-7fba-40f2-b626-84046e031f73)
 ![Google_GUI_1](https://github.com/user-attachments/assets/a87ad4b3-c904-48c1-9647-da491c9dfba8)
+
+
+8.Multiple Email
+A GUI-based email sender tool that allows users to input their email, password, subject, message, and multiple recipients. Built with tkinter, it securely sends emails via SMTP with SSL and includes error handling for authentication and input validation.
+
+![8_Multiple_Email](https://github.com/user-attachments/assets/eae51f0d-7cfa-42d1-9b8b-a7db9e03b7a2)
