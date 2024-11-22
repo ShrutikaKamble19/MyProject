@@ -45,3 +45,8 @@ A GUI-based Google Translator using Tkinter and googletrans. Users can input tex
 A GUI-based email sender tool that allows users to input their email, password, subject, message, and multiple recipients. Built with tkinter, it securely sends emails via SMTP with SSL and includes error handling for authentication and input validation.
 
 ![8_Multiple_Email](https://github.com/user-attachments/assets/eae51f0d-7cfa-42d1-9b8b-a7db9e03b7a2)
+
+9.Digital clock
+A simple digital clock built with Python's tkinter library that displays the current time in hours, minutes, and seconds, updating in real-time.
+
+![9_Digital_Clock](https://github.com/user-attachments/assets/bc3dcb30-2547-4554-9744-683d567e232e)
