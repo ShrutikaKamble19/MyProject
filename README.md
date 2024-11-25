@@ -50,3 +50,9 @@ A GUI-based email sender tool that allows users to input their email, password, 
 A simple digital clock built with Python's tkinter library that displays the current time in hours, minutes, and seconds, updating in real-time.
 
 ![9_Digital_Clock](https://github.com/user-attachments/assets/bc3dcb30-2547-4554-9744-683d567e232e)
+
+10.Take a break
+Sends a notification with a reminder message to take a break, rest eyes, and stretch.
+Runs in an infinite loop, sending notifications at the specified interval (default is 30 minutes).
+
+![Screenshot from 2024-11-25 11-41-00](https://github.com/user-attachments/assets/8fee40d8-2816-4afe-81b9-94061e2e81c8)
