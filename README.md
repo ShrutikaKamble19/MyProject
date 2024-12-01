@@ -56,3 +56,8 @@ Sends a notification with a reminder message to take a break, rest eyes, and str
 Runs in an infinite loop, sending notifications at the specified interval (default is 30 minutes).
 
 ![Screenshot from 2024-11-25 11-41-00](https://github.com/user-attachments/assets/8fee40d8-2816-4afe-81b9-94061e2e81c8)
+
+11.Password protection
+This basic system can be extended to provide access to specific functionality after successful login. It provides a simple method to secure access to a Python program.
+![11_password_protection](https://github.com/user-attachments/assets/ecef0c50-e3fe-4607-b17b-6e8abda413cf)
+
